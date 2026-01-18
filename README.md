@@ -2,3 +2,4 @@
 This repository tracks my learning and contributions on Base ecosystem.
 initial learning notes added
 updated base ecosystem notes
+added short explanation about gas
