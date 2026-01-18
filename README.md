@@ -4,3 +4,4 @@ initial learning notes added
 updated base ecosystem notes
 added short explanation about gas
 minor text improvement
+learning progress update
