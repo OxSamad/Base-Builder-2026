@@ -13,3 +13,4 @@ added notes about Base apps
 learning notes day 2
 updated examples section
 added simple explanation
+small content update
