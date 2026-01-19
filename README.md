@@ -6,3 +6,4 @@ added short explanation about gas
 minor text improvement
 learning progress update
 added daily study note
+improved README clarity
