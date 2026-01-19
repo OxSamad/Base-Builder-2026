@@ -9,3 +9,4 @@ added daily study note
 improved README clarity
 fixed small typo
 updated project overview
+added notes about Base apps
