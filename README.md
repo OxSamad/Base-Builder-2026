@@ -11,3 +11,4 @@ fixed small typo
 updated project overview
 added notes about Base apps
 learning notes day 2
+updated examples section
