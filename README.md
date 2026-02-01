@@ -19,3 +19,4 @@ learning notes day 2
 updated examples section
 added simple explanation
 small content update
+updated notes after research
